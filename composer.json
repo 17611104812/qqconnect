@@ -1,0 +1,16 @@
+{
+    "name": "jie/qqconnect",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "jie\\qqconnect\\": "src/api"
+        },
+        "files": ["src/comm/config.php","src/comm/utils.php"]
+    },
+    "authors": [
+        {
+            "name": "吕向杰",
+            "email": "v-xiangjielv@creditease.cn"
+        }
+    ]
+}
