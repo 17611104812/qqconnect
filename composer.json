@@ -3,9 +3,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jie\\qqconnect\\": "src/api"
+            "jie\\qqconnect\\": "api"
         },
-        "files": ["src/comm/config.php","src/comm/utils.php"]
+        "files": [
+            "comm/config.php",
+            "comm/utils.php"
+        ]
     },
     "authors": [
         {
